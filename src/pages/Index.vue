@@ -32,7 +32,7 @@ export default {
   },
   data() {
     return {
-      description: 'The ultimate generated documentation theme for the JAM-stack'
+      description: 'The ultimate split test generated documentation theme for the JAM-stack develop'
     }
   },
   metaInfo() {
